@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1731848820 source:c:\users\omarw\onedrive\desktop\iti\c\c-course\day3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+
