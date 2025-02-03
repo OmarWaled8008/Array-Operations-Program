@@ -57,9 +57,3 @@ When the program runs, it presents the following menu options:
 - The program uses Windows-specific functions (`gotoxy()` and `textattr()`) for console positioning and text formatting. If running on a different OS, these functions may need to be modified or removed.
 - The array size is fixed (`SIZE = 5`). To change this, update the `#define SIZE` directive at the beginning of the file.
 
-## License
-This program is open-source and can be modified or distributed freely.
-
-## Author
-Developed by [Your Name].
-
